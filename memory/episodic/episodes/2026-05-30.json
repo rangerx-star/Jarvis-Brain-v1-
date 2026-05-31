@@ -1,0 +1,153 @@
+[
+    {
+        "id": "ep-001",
+        "time": "2026-05-30T14:46:27.592220+05:30",
+        "summary": "Seeks intuitive calculus learning",
+        "episode": [
+            {
+                "t": "goal",
+                "v": "Learn calculus with intuition",
+                "tm": "recent",
+                "i": 2
+            },
+            {
+                "t": "fact",
+                "v": "Rediscovered calculus Sunday last week",
+                "tm": "past",
+                "i": 1
+            }
+        ]
+    },
+    {
+        "id": "ep-002",
+        "time": "2026-05-30T14:47:14.234963+05:30",
+        "summary": "Learning calculus intuitively; building Jarvis brain AI",
+        "episode": [
+            {
+                "t": "interest",
+                "v": "Wants intuitive calculus understanding",
+                "tm": "ongoing",
+                "i": 2
+            },
+            {
+                "t": "project",
+                "v": "Jarvis brain AI project",
+                "tm": "ongoing",
+                "i": 3
+            },
+            {
+                "t": "goal",
+                "v": "Find visual/intuitive calculus resources",
+                "tm": "future",
+                "i": 2
+            }
+        ]
+    },
+    {
+        "id": "ep-003",
+        "time": "2026-05-30T14:47:33.713235+05:30",
+        "summary": "Learning calculus intuitively; developing Jarvis brain AI project",
+        "episode": [
+            {
+                "t": "project",
+                "v": "Jarvis brain AI development",
+                "tm": "ongoing",
+                "i": 3
+            },
+            {
+                "t": "goal",
+                "v": "Achieve intuitive grasp of calculus concepts",
+                "tm": "ongoing",
+                "i": 2
+            },
+            {
+                "t": "interest",
+                "v": "Artificial intelligence and brain\u2011like systems",
+                "tm": "ongoing",
+                "i": 2
+            },
+            {
+                "t": "emotion",
+                "v": "Frustrated by lack of calculus intuition",
+                "tm": "recent",
+                "i": 1
+            },
+            {
+                "t": "pref",
+                "v": "Prefers visual/video and easy\u2011read resources for calculus",
+                "tm": "recent",
+                "i": 1
+            }
+        ]
+    },
+    {
+        "id": "ep-004",
+        "time": "2026-05-30T14:48:23.243408+05:30",
+        "summary": "Jarvis brain AI project; calculus learning interest",
+        "episode": [
+            {
+                "t": "project",
+                "v": "Jarvis brain orchestration agentic multimodal system",
+                "tm": "ongoing",
+                "i": 2
+            },
+            {
+                "t": "interest",
+                "v": "Improving calculus intuition, seeking intuitive resources",
+                "tm": "recent",
+                "i": 1
+            }
+        ]
+    },
+    {
+        "id": "ep-005",
+        "time": "2026-05-30T14:56:18.476362+05:30",
+        "summary": "User has active Jarvis brain AI project",
+        "episode": [
+            {
+                "t": "project",
+                "v": "Jarvis brain multi\u2011modal AI orchestration",
+                "tm": "ongoing",
+                "i": 1
+            }
+        ]
+    },
+    {
+        "id": "ep-006",
+        "time": "2026-05-30T14:57:08.791338+05:30",
+        "summary": "Jarvis brain project ongoing",
+        "episode": [
+            {
+                "t": "project",
+                "v": "Jarvis brain AI orchestration",
+                "tm": "ongoing",
+                "i": 3
+            }
+        ]
+    },
+    {
+        "id": "ep-007",
+        "time": "2026-05-30T14:57:59.354753+05:30",
+        "summary": "Jarvis brain project ongoing",
+        "episode": [
+            {
+                "t": "project",
+                "v": "Jarvis brain AI orchestration",
+                "tm": "ongoing",
+                "i": 3
+            },
+            {
+                "t": "interest",
+                "v": "AI orchestration",
+                "tm": "ongoing",
+                "i": 2
+            },
+            {
+                "t": "pref",
+                "v": "casual greeting preferred",
+                "tm": "past",
+                "i": 1
+            }
+        ]
+    }
+]
