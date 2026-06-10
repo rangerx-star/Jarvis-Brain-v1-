@@ -1,5 +1,7 @@
 Project Status & expectations
 
+- The goal of this repo is not to show production-level engineered code, but to showcase my vision with this.
+
 Jarvis Brain v1 is an actively evolving project and should be considered a foundational release.
 
 The project is currently developed primarily from a mobile-based development environment using limited hardware resources. As a result, some planned capabilities are still in early stages, experimental, or represented by foundational implementations.
